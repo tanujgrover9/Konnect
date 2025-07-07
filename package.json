@@ -8,11 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "author": {
-    "name": "",
-    "email": "",
-    "url": ""
-  },
+
   "description": "Modern Next.js powered Video calling app",
   "keywords": [
     "reactjs",
