@@ -1,5 +1,5 @@
 {
-  "name": "zoom-clone",
+  "name": "Konnect",
   "version": "1.0.1",
   "private": true,
   "scripts": {
@@ -46,25 +46,7 @@
     "css"
   ],
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/sanidhyy/zoom-clone.git"
-  },
-  "homepage": "https://github.com/sanidhyy/zoom-clone#readme",
-  "bugs": {
-    "url": "https://github.com/sanidhyy/zoom-clone/issues",
-    "email": "sanidhya.verma12345@gmail.com"
-  },
-  "funding": [
-    {
-      "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
-    },
-    {
-      "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
-    }
-  ],
+  
   "dependencies": {
     "@clerk/nextjs": "^5.7.5",
     "@radix-ui/react-dialog": "^1.1.11",
