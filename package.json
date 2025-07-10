@@ -8,7 +8,6 @@
     "start": "next start",
     "lint": "next lint"
   },
-
   "description": "Modern Next.js powered Video calling app",
   "keywords": [
     "reactjs",
@@ -46,7 +45,6 @@
     "css"
   ],
   "license": "MIT",
-  
   "dependencies": {
     "@clerk/nextjs": "^5.7.5",
     "@radix-ui/react-dialog": "^1.1.11",
@@ -69,7 +67,7 @@
     "@types/node": "^22",
     "@types/react": "^18",
     "@types/react-datepicker": "^7.0.0",
-    "@types/react-dom": "^19",
+    "@types/react-dom": "^18.2.7",
     "eslint": "^9",
     "eslint-config-next": "15.0.3",
     "eslint-plugin-unused-imports": "^4.1.4",
